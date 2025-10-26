@@ -17,6 +17,7 @@ Oracle-based finance platform for **GL ↔ sub-ledger reconciliation**, **varian
 - `jobs_scheduler.sql` — Nightly scheduler job
 
 ## Quick start
+
 ```sql
 -- 1) Create tables
 @schema.sql
