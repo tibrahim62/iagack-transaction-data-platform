@@ -43,3 +43,15 @@ Oracle-based finance platform for **GL ⇄ sub-ledger reconciliation**, **varian
 
 -- 5) Schedule nightly reconciliation
 @jobs_scheduler.sql
+### Application Setup
+
+1. Clone the repository  
+2. Install dependencies  
+3. Run the app  
+
+---
+
+## Author
+
+**Tarek I. Adam** – Oracle Cloud Certified Professional  
+[LinkedIn](https://www.linkedin.com/in/tarek-i-adam) | [GitHub](https://github.com/yourusername)
