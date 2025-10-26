@@ -1,6 +1,8 @@
 # iagack-transaction-data-platform
 
-Oracle-based finance platform for **GL ↔ sub-ledger reconciliation**, **variance checks**, **ETL jobs**, and **operational/finance KPIs** (2020–2022).
+Oracle-based finance platform for **GL ⇄ sub-ledger reconciliation**, **variance checks**, **ETL jobs**, and **operational/finance KPIs** (2020–2022).
+
+---
 
 ## Features
 - Sub-ledger → GL reconciliation (daily ETL validation)
@@ -9,14 +11,20 @@ Oracle-based finance platform for **GL ↔ sub-ledger reconciliation**, **varian
 - Automated `DBMS_SCHEDULER` job for nightly reconciliation
 - Sample data and PL/SQL packages for demonstration
 
-## Files
-- `schema.sql` — Core GL/Subledger tables
-- `sample_data.sql` — Demo dataset
-- `plsql_packages.sql` — Reconciliation & variance package
-- `reports_queries.sql` — Finance KPIs and exceptions
-- `jobs_scheduler.sql` — Nightly scheduler job
+---
 
-## Quick start
+## Files
+- `schema.sql` – Core GL/Subledger tables  
+- `sample_data.sql` – Demo dataset  
+- `plsql_packages.sql` – Reconciliation & variance package  
+- `reports_queries.sql` – Finance KPIs and exceptions  
+- `jobs_scheduler.sql` – Nightly scheduler job  
+
+---
+
+## Quick Start
+
+### Database Setup
 
 ```sql
 -- 1) Create tables
@@ -33,4 +41,3 @@ Oracle-based finance platform for **GL ↔ sub-ledger reconciliation**, **varian
 
 -- 5) Schedule nightly reconciliation
 @jobs_scheduler.sql
-\\\
