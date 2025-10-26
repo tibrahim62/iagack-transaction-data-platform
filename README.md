@@ -43,6 +43,7 @@ Oracle-based finance platform for **GL ⇄ sub-ledger reconciliation**, **varian
 
 -- 5) Schedule nightly reconciliation
 @jobs_scheduler.sql
+
 ### Application Setup
 
 1. Clone the repository  
