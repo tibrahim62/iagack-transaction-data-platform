@@ -1,5 +1,7 @@
 # iagack-transaction-data-platform
 
+> End-to-end Oracle PL/SQL solution for sub-ledger reconciliation, variance analysis, and automated finance reporting.
+
 Oracle-based finance platform for **GL ⇄ sub-ledger reconciliation**, **variance checks**, **ETL jobs**, and **operational/finance KPIs** (2020–2022).
 
 ---
