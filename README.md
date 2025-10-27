@@ -6,6 +6,16 @@ Oracle-based finance platform for **GL ⇄ sub-ledger reconciliation**, **varian
 
 ---
 
+## Table of Contents
+- [Features](#features)
+- [Files](#files)
+- [Quick Start](#quick-start)
+  - [Database Setup](#database-setup)
+  - [Application Setup](#application-setup)
+- [Author](#author)
+
+---
+
 ## Features
 - Sub-ledger → GL reconciliation (daily ETL validation)
 - Variance checks and audit trail tracking
