@@ -78,21 +78,11 @@ sqlplus admin@your_db_alias @jobs_scheduler.sql
 ```
 <p align="right"><a href="#table-of-contents">⬆️ Back to top</a></p>
 
-[Back to top](#table-of-contents)
-
-<p align="right">
-  <a href="#table-of-contents">
-    <img src="assets/back-to-top.png" alt="Back to top" width="28">
-  </a>
-</p>
-
 <p align="right">
   <a href="#table-of-contents">
     <img src="https://img.shields.io/badge/Back_to_top-↑-blue" alt="Back to top">
   </a>
 </p>
-
-[⬆️ Back to top](#table-of-contents)
 
 ---
 
