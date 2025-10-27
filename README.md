@@ -75,14 +75,9 @@ sqlplus admin@your_db_alias @sample_data.sql
 sqlplus admin@your_db_alias @plsql_packages.sql
 sqlplus admin@your_db_alias @reports_queries.sql
 sqlplus admin@your_db_alias @jobs_scheduler.sql
+
 ```
 <p align="right"><a href="#table-of-contents">⬆️ Back to top</a></p>
-
-<p align="right">
-  <a href="#table-of-contents">
-    <img src="https://img.shields.io/badge/Back_to_top-↑-blue" alt="Back to top">
-  </a>
-</p>
 
 ---
 
