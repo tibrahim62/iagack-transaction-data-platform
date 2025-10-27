@@ -76,6 +76,8 @@ sqlplus admin@your_db_alias @plsql_packages.sql
 sqlplus admin@your_db_alias @reports_queries.sql
 sqlplus admin@your_db_alias @jobs_scheduler.sql
 ```
+<p align="right"><a href="#table-of-contents">⬆️ Back to top</a></p>
+
 [Back to top](#table-of-contents)
 ---
 
