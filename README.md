@@ -43,3 +43,22 @@ Oracle-based finance platform for **GL ⇄ sub-ledger reconciliation**, **varian
 
 -- 5) Schedule nightly reconciliation
 @jobs_scheduler.sql
+
+---
+
+### Application Setup
+
+1. Clone the repository  
+2. Install dependencies  
+3. Run the app
+
+---
+## Author
+
+Built by **Tarek I. Adam** – Oracle Cloud Certified Professional  
+as a public demonstration of practical Oracle AI Vector Search for transportation analytics.  
+[LinkedIn](https://www.linkedin.com/in/tarek-i-adam) | [GitHub](https://github.com/tibrahim62)
+
+---
+
+
