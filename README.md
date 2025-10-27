@@ -41,6 +41,5 @@ Oracle-based finance platform for **GL ⇄ sub-ledger reconciliation**, **varian
 -- 4) Create KPI/exception views & queries
 @reports_queries.sql
 
-```sql
 -- 5) Schedule nightly reconciliation
 @jobs_scheduler.sql
