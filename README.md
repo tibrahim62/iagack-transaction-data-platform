@@ -36,7 +36,7 @@ Oracle-based finance platform for **GL ⇄ sub-ledger reconciliation**, **varian
 
 ## Quick Start
 
-### Database Setup
+### Database Setup {#database-setup}
 
 ```sql
 -- 1) Create tables
@@ -55,7 +55,7 @@ Oracle-based finance platform for **GL ⇄ sub-ledger reconciliation**, **varian
 @jobs_scheduler.sql
 ```
 
-### Application Setup
+### Application Setup {#application-setup}
 
 1. Clone the repository  
 2. Install dependencies  
@@ -76,7 +76,7 @@ sqlplus admin@your_db_alias @plsql_packages.sql
 sqlplus admin@your_db_alias @reports_queries.sql
 sqlplus admin@your_db_alias @jobs_scheduler.sql
 ```
-
+[Back to top](#table-of-contents)
 ---
 
 ## Author
