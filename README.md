@@ -1,8 +1,12 @@
-# iagack-transaction-data-platform
+# IAGACK – Transaction Data Platform
 
-> End-to-end Oracle PL/SQL solution for sub-ledger reconciliation, variance analysis, and automated finance reporting.
+**Tech Stack:** Oracle Database 19c • PL/SQL • DBMS_SCHEDULER • SQL Developer • Oracle Analytics Cloud (OAC)  
+**Use Cases:** GL ↔ Sub-ledger reconciliation • Variance checks • ETL orchestration • Financial KPI reporting  
 
-Oracle-based finance platform for **GL ⇄ sub-ledger reconciliation**, **variance checks**, **ETL jobs**, and **operational/finance KPIs** (2020–2022).
+**Author:** Tarek I. Adam — Oracle Cloud Certified Consultant *(Top 10 in Race to Certification 2025)*  
+
+IAGACK is an Oracle-based PL/SQL platform for GL and sub-ledger reconciliation, variance checks, ETL automation, and operational KPI reporting.  
+It provides robust audit control, automated job scheduling, and analytics-ready outputs for finance teams using Oracle Analytics Cloud (OAC).
 
 ---
 
@@ -12,6 +16,7 @@ Oracle-based finance platform for **GL ⇄ sub-ledger reconciliation**, **varian
 - [Quick Start](#quick-start)
   - [Database Setup](#database-setup)
   - [Application Setup](#application-setup)
+  - [Commands (optional)](#commands-optional)
 - [Author](#author)
 
 ---
@@ -84,5 +89,8 @@ sqlplus admin@your_db_alias @jobs_scheduler.sql
 ## Author
 
 Built by **Tarek I. Adam** – Oracle Cloud Certified Professional  
-as a public demonstration of practical Oracle AI Vector Search for transportation analytics.  
+as a public demonstration of practical Oracle analytics on Oracle Cloud.  
+**Stack:** Oracle ADB (Vector Search), PL/SQL, APEX, OAC, OIC  
 [LinkedIn](https://www.linkedin.com/in/tarek-i-adam) | [GitHub](https://github.com/tibrahim62)
+
+<p align="right"><a href="#table-of-contents">⬆ Back to top</a></p>
